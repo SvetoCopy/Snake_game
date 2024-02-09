@@ -1,0 +1,7 @@
+x64/ 
+.vs/
+.git/
+snake.sln
+snake.vcxproj
+snake.vcxproj.filters
+snake.vcxproj.user
